@@ -1,0 +1,10 @@
+.lexend-font {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.blurBg {
+    background-color: rgba(249, 247, 243, 0.6);
+    backdrop-filter: blur(10px);
+}
